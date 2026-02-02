@@ -1,2 +1,2 @@
 # shreya
-this is a demo class for git and github
+this is a demo class for git and github.
